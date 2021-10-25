@@ -7,6 +7,11 @@ A Vue component for [CryptoZombies.io](https://cryptoZombies.io).
 You can generate a preview of the zombie in the browser.
 Refer to [lesson 6](https://cryptoZombies.io/course) for more detailed information on how it can work in conjunction with a solidity dApp.
 
+## Vue2 or Vue3
+
+- Please for VUE2 checkout [zombie-char-component-vue2 package](https://www.npmjs.com/package/zombie-char-component-vue2)
+- Please for VUE3 checkout [zombie-char-component package](https://www.npmjs.com/package/zombie-char-component)
+
 ## Installation
 
 ### npm
@@ -148,6 +153,10 @@ aabbccddeeff<br />
 ![Example4](https://user-images.githubusercontent.com/48379992/136317323-d2420122-2455-49a9-a6ef-fe3d38aacfae.png)
 
 ### Change log
+
+## 1.0.6 (2021-10-25)
+
+- added vue2 repo
 
 ## 1.0.5 (2021-10-07)
 
